@@ -15,7 +15,7 @@ sudo apt-get update -y && sudo apt-get install dialog bash sed wget git curl zip
 ### Step 1
 Clone the repository:
 ```
-git clone https://github.com/Sota4Ever/UTFamily-Samsung-Exynos9830.git -b halium-13 --depth 1
+git clone https://github.com/Sota4Ever/UTFamily-Samsung-S-or-N20-Series.git -b halium-13 --depth 1
 ```
 ### Step 2
 Go into the repository and you have to put a `deviceinfo-**` link symbol with the following command:
